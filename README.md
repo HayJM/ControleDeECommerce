@@ -408,10 +408,18 @@ Para suporte e dúvidas:
 ```
 ✅ BUILD SUCCESSFUL - Ambos os projetos
 ✅ TESTS PASSING - Testes unitários funcionais  
-✅ ZERO WARNINGS - Compilação limpa
+⚠️ DEPRECATED WARNINGS - Warehouse tem warnings de Gradle (não impedem funcionamento)
 ✅ FULL DOCUMENTATION - README e Swagger atualizados
-✅ PRODUCTION READY - Estrutura profissional
+✅ FUNCTIONAL READY - Estrutura funcional e operacional
 ```
+
+---
+
+## 👨‍💻 Autor
+
+**Haynner Henrique**  
+🎓 Engenharia da Computação  
+📚 Projeto Acadêmico - Riachuelo: Primeiros Passos com Java  
 
 ---
 
